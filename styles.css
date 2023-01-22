@@ -50,3 +50,54 @@ p {
     font-style: italic;
     text-align: center;
 }
+
+.toolkit {
+    border-radius: 12.5%;
+    margin: 30px;
+    float: left;
+}
+
+#toolkit {
+    text-align: left;
+}
+
+.physics {
+    border-radius: 12.5%;
+    margin: 30px;
+    float: left;
+}
+
+#physics {
+    text-align: left;
+}
+.ml {
+    border-radius: 12.5%;
+    margin: 30px;
+    float: left;
+}
+
+#ml {
+    text-align: left;
+}
+.kody {
+    border-radius: 12.5%;
+    margin: 30px;
+    float: left;
+}
+
+#kody {
+    text-align: left;
+}
+
+.contactbanners {
+    border-radius: 50%;
+    float: center;
+    margin: 30px;
+    width: 500px;
+}
+
+@media only screen and (min-width : 320px) {
+    .contactbanners {
+        width: 350px;
+    }
+}
